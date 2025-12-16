@@ -12,3 +12,6 @@ labels: ["user story"]
 ---
 
 ### Acceptance Criteria
+Given [context]
+When [action]
+Then [outcome]
